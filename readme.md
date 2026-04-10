@@ -1,120 +1,88 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff66b3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff66b3"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Follow-GitHub-ff66b3?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stars-Repositories-ff66b3?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=VegasVvegas&style=for-the-badge&label=VIEWS&color=ff66b3" />
-</p>
+<div align="center" style="
+  border: 1.5px solid rgba(255,102,179,0.65);
+  border-radius: 30px;
+  padding: 38px 24px;
+  margin: 28px auto;
+  width: 86%;
+  background: linear-gradient(180deg, rgba(255,102,179,0.05), rgba(255,182,193,0.03));
+">
 
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff66b3&width=700&lines=👑+Rainha+da+Inteligência+Artificial;💖+IA+%7C+Cloud+%7C+Cyber+Security;👑+Algoritmos%2C+Dados+e+Segurança+Digital+💖" />
-</p>
-
-<br>
-
-<div align="center">
-  <b>`👑 Inteligência Artificial | Cloud | Cyber Segurança 👑`</b>
-
-  <h2>
-    <span style="
-      color:#ff66b3;
-      padding:6px 14px;
-      border:2px solid #ff66b3;
-      border-radius:14px;
-      display:inline-block;
-      font-weight:bold;
-      text-shadow:0 0 6px #ff66b3;
-    ">
-      👑 I am <b>Yara Xavier  👑</b>
-    </span>
-  </h2>
-</div>
-
-
-<p align="center">
-Sou estudante e entusiasta de <b>Inteligência Artificial</b>, com foco em 
-<b>algoritmos clássicos, ciência de dados, computação em nuvem e segurança digital</b>.  
-Este perfil reúne projetos acadêmicos, portfólios técnicos e estudos voltados à 
-construção de sistemas inteligentes, seguros e escaláveis.
-</p>
-
-<br>
-
-<!-- ================= CERTIFICAÇÕES ================= -->
-
-<div align="center">
-  <h2 style="
-    color:#ff66b3;
-    text-shadow:
-      0 0 6px #ff66b3,
-      0 0 12px #ff99cc;
-    border:3px dashed #ff66b3;
-    border-radius:22px;
-    padding:14px 26px;
-    display:inline-block;
+  <p style="
+    font-size: 11px;
+    letter-spacing: 5px;
+    color: #ffb3d9;
+    margin: 0 0 18px 0;
   ">
-     Certificações & Formação 
+    SALVE DEUS
+  </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=ff66b3&center=true&vCenter=true&width=560&lines=Hi%2C+I+am+Yara;Technology+Student;DevSecOps+Journey;Infrastructure+%7C+Security+%7C+Open+Source" />
+  </p>
+
+  <h2 style="
+    margin: 14px 0 8px 0;
+    font-weight: 600;
+    letter-spacing: 1px;
+  ">
+    <span style="
+      background: linear-gradient(90deg, #ff66b3, #ff99cc, #ffd6eb);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    ">
   </h2>
+
+  <p style="
+    font-size: 16px;
+    max-width: 700px;
+    margin: 18px auto 0 auto;
+    line-height: 1.9;
+    background: linear-gradient(90deg, #ff8fc7, #ffc2e0, #ffe0f0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  ">
+    Sou estudante de tecnologia, aventureira da lógica e apaixonada por matemática.<br>
+    Construindo minha jornada em DevSecOps, explorando infraestrutura, segurança e sistemas.
+  </p>
 
   <div style="
-    font-size:24px;
-    margin-top:8px;
-    letter-spacing:6px;
-  ">
+    margin: 28px auto 22px auto;
+    width: 72%;
+    border-top: 1px dashed rgba(255,153,204,0.65);
+  "></div>
+
+  <div style="
+    font-size: 14px;
+    line-height: 2.15;
+    background: linear-gradient(90deg, #ff80bf, #ffb3d9, #ffd6eb);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+
+
+    
+  
+   
   </div>
-</div>
 
+  <div style="
+    margin: 26px auto 22px auto;
+    width: 72%;
+    border-top: 1px dashed rgba(255,153,204,0.65);
+  "></div>
 
-
-<div align="center">
-
-### ☁️ Certificações AWS  
-<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-
-<b>AWS Cloud Foundations</b>  
-<b>AWS Cloud Practitioner – em andamento</b>  
-
-<br>
-
-### 🛡️ Certificações em Cyber Segurança  
-<img width="55" src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png"/>
-
-<b>Fundamentos de Cyber Segurança</b>  
-<b>Segurança da Informação e Boas Práticas</b>  
+  <div align="center">
+    <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+    <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+    <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  </div>
 
 </div>
 
-<br>
-
-<!-- ================= TECNOLOGIAS ================= -->
-
-<div align="center" style="display: inline_block"><br>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-</div>
-
-<br>
-<br>
-
-<!-- ================= CONTATO ================= -->
-
-<div align="center">
-  <samp><b>Contato 👑</b></samp>
-  <br><br>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff66b3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arenamalika/)
-  [![Email](https://img.shields.io/badge/Gmail-ff66b3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaraxavierdesousa@gmail.com)
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff66b3&height=100&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff66b3&height=110&section=footer"/>
