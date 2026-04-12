@@ -1,0 +1,89 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="900" height="260" rx="25" fill="#120812"/>
+
+  <defs>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff66b3"/>
+      <stop offset="100%" stop-color="#ffcce6"/>
+    </linearGradient>
+
+    <g id="heart">
+      <path d="M12 21C12 21 2 14 2 7C2 4 4 2 7 2C9 2 11 3 12 5C13 3 15 2 17 2C20 2 22 4 22 7C22 14 12 21 12 21Z" fill="#ff80bf"/>
+    </g>
+  </defs>
+
+  <!-- corpo -->
+  <rect x="400" y="140" width="100" height="80" rx="20"
+        fill="url(#pink)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze"/>
+  </rect>
+
+  <!-- cabeça -->
+  <circle cx="450" cy="110" r="30"
+          fill="url(#pink)" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.5s" dur="0.5s" fill="freeze"/>
+  </circle>
+
+  <!-- capuz -->
+  <path d="M410 90 Q450 40 490 90 L490 140 Q450 120 410 140 Z"
+        fill="url(#pink)" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="1s" dur="0.5s" fill="freeze"/>
+  </path>
+
+  <!-- óculos -->
+  <rect x="430" y="100" width="40" height="15" rx="5"
+        fill="#2b0f20" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="1.5s" dur="0.4s" fill="freeze"/>
+  </rect>
+
+  <!-- notebook base -->
+  <rect x="370" y="170" width="160" height="40" rx="10"
+        fill="#1f0f1f" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="2s" dur="0.5s" fill="freeze"/>
+  </rect>
+
+  <!-- tela -->
+  <rect x="380" y="150" width="140" height="30" rx="5"
+        fill="#ff99cc" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="2.5s" dur="0.5s" fill="freeze"/>
+  </rect>
+
+  <!-- scan -->
+  <rect x="380" y="150" width="140" height="4" fill="#ffd6eb">
+    <animate attributeName="y" values="150;180;150" dur="2s" begin="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- brilhos -->
+  <circle cx="200" cy="40" r="2" fill="#ffd6eb">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="700" cy="60" r="2" fill="#ffd6eb">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- corações -->
+  <g transform="translate(600,160)">
+    <use href="#heart">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 0 -10; 0 0" dur="1.5s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <g transform="translate(280,160)">
+    <use href="#heart">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 0 -8; 0 0" dur="1.8s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- texto -->
+  <text x="450" y="240" text-anchor="middle"
+        fill="#ffcce6"
+        font-size="22"
+        font-family="Verdana">
+    protected by code &amp; love 💕
+  </text>
+
+</svg>
