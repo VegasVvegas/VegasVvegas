@@ -22,9 +22,8 @@
 <br>
 
 <div align="center">
-  <img width="85%" src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/assets/ativos/personagem-hacker-rosa.svg" alt="Personagem hacker rosa"/>
+  <img width="85%" src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/personagem-hacker-rosa.svg"/>
 </div>
-
 <br>
 
 <div align="center">
