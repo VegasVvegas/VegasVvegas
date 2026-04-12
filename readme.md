@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <img width="85%" src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/ativos/pink-snake-hearts.svg" alt="Pink snake hearts"/>
+  <img width="85%" src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/assets/ativos/personagem-hacker-rosa.svg" alt="Personagem hacker rosa"/>
 </div>
 
 <br>
