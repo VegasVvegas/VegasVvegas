@@ -1,88 +1,108 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff66b3"/>
 
-<div align="center" style="
-  border: 1.5px solid rgba(255,102,179,0.65);
-  border-radius: 30px;
-  padding: 38px 24px;
-  margin: 28px auto;
-  width: 86%;
-  background: linear-gradient(180deg, rgba(255,102,179,0.05), rgba(255,182,193,0.03));
-">
+<div align="center">
 
-  <p style="
-    font-size: 11px;
-    letter-spacing: 5px;
-    color: #ffb3d9;
-    margin: 0 0 18px 0;
-  ">
+  <p style="font-size: 12px; letter-spacing: 4px; color: #ffb3d9; margin-top: 10px;">
     SALVE DEUS
   </p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=ff66b3&center=true&vCenter=true&width=560&lines=Hi%2C+I+am+Yara;Technology+Student;DevSecOps+Journey;Infrastructure+%7C+Security+%7C+Open+Source" />
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=ff66b3&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Yara;Technology+Student;DevSecOps+Journey;Infrastructure+%7C+Security+%7C+Open+Source" />
   </p>
 
-  <h2 style="
-    margin: 14px 0 8px 0;
-    font-weight: 600;
-    letter-spacing: 1px;
-  ">
-    <span style="
-      background: linear-gradient(90deg, #ff66b3, #ff99cc, #ffd6eb);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    ">
-  </h2>
+  <p>
+    <img src="https://img.shields.io/badge/Focus-DevSecOps-ff66b3?style=for-the-badge&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/Area-Infrastructure-ff99cc?style=for-the-badge&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/Interest-Security-ffb3d9?style=for-the-badge&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/Open%20Source-Lover-ffd6eb?style=for-the-badge&labelColor=1a1a1a"/>
+  </p>
 
-  <p style="
-    font-size: 16px;
-    max-width: 700px;
-    margin: 18px auto 0 auto;
-    line-height: 1.9;
-    background: linear-gradient(90deg, #ff8fc7, #ffc2e0, #ffe0f0);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  ">
-    Sou estudante de tecnologia, aventureira da lógica e apaixonada por matemática.<br>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="85%" src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/assets/pink-hacker-character.svg" alt="Pink hacker character"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>💖 About me</h2>
+
+  <p>
+    Sou estudante de tecnologia, aventureira da lógica e apaixonada por matemática.
+    <br>
     Construindo minha jornada em DevSecOps, explorando infraestrutura, segurança e sistemas.
   </p>
 
-  <div style="
-    margin: 28px auto 22px auto;
-    width: 72%;
-    border-top: 1px dashed rgba(255,153,204,0.65);
-  "></div>
-
-  <div style="
-    font-size: 14px;
-    line-height: 2.15;
-    background: linear-gradient(90deg, #ff80bf, #ffb3d9, #ffd6eb);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-
-
-
-
-    
-  
-   
-  </div>
-
-  <div style="
-    margin: 26px auto 22px auto;
-    width: 72%;
-    border-top: 1px dashed rgba(255,153,204,0.65);
-  "></div>
-
-  <div align="center">
-    <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-    <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-    <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-    <img width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  </div>
-
+  <p>
+    Acredito no código aberto porque ele promove aprendizado real, colaboração
+    e construção de soluções mais seguras e acessíveis.
+  </p>
 </div>
+
+<br>
+
+<div align="center">
+  <h2>🛠 Technologies</h2>
+
+  <p>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VegasVvegas&show_icons=true&theme=transparent&title_color=ff66b3&text_color=ffcce6&icon_color=ff99cc&border_color=ff99cc"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegasVvegas&layout=compact&theme=transparent&title_color=ff66b3&text_color=ffcce6&border_color=ff99cc"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🌸 Currently</h2>
+
+  <p>
+    📚 Estudando infraestrutura, segurança e sistemas
+    <br>
+    🐧 Explorando Linux, Git, Docker e boas práticas de desenvolvimento
+    <br>
+    💻 Construindo minha base em DevSecOps
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🌷 Connect with me</h2>
+
+  <p>
+    <a href="https://www.linkedin.com/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-ff66b3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:seuemail@example.com">
+      <img src="https://img.shields.io/badge/Email-ff99cc?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+</div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff66b3&height=110&section=footer"/>
