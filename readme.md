@@ -4,9 +4,9 @@
 
 # Yara Xavier
 
-### Infrastructure • DevOps • Security • AWS • Open Source
+### AWS • DevOps • Security • Infrastructure • Open Source
 
-**Building secure and reliable infrastructure with Security by Design practices.**
+**Building secure, reliable and scalable infrastructure with Security by Design practices.**
 
 <p>
   <img src="https://img.shields.io/badge/AWS-Cloud-ff66b3?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1a1a1a"/>
@@ -22,8 +22,8 @@
   <a href="mailto:yaraxavierdesousa@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-ff99cc?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/5561998749981" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-ffb3d9?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://t.me/YaraXavier" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%40YaraXavier-ffb3d9?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
@@ -43,11 +43,11 @@
 
 I am a technology student building my career in **Infrastructure, DevOps, Cloud and Security**.
 
-My current focus is on **AWS, Linux, containers, Kubernetes, automation, secrets management and Security by Design practices**.
+My main interests are **AWS, Linux, automation, infrastructure security, open source technologies and Security by Design practices**.
 
-I am especially interested in understanding the small configuration, access and infrastructure details that can silently increase an application's attack surface.
+I am especially interested in understanding how small configuration, access and infrastructure decisions can affect the security, reliability and maintainability of systems.
 
-I also value **open source technologies** for the transparency, learning opportunities and collaboration they bring to modern infrastructure and security.
+I value **open source** as an important part of learning, collaboration and the development of transparent and accessible technology.
 
 </div>
 
@@ -55,21 +55,17 @@ I also value **open source technologies** for the transparency, learning opportu
 
 <div align="center">
 
-## Tech Stack
+## Technologies & Tools
 
 <p>
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"/>
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"/>
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
 </p>
-
-**Currently working with:** CI/CD • GitHub Actions • OpenBao • Secrets Management • Security by Design
 
 </div>
 
@@ -77,13 +73,12 @@ I also value **open source technologies** for the transparency, learning opportu
 
 <div align="center">
 
-## Featured Project
+## Programming Languages
 
-### 🔐 Security by Design + AI POC
-
-A practical Proof of Concept focused on applying **Security by Design best practices to AI-assisted development**, with attention to small configuration, access, code and infrastructure details that may silently expand the attack surface.
-
-[View the project](https://github.com/VegasVvegas/security-by-design-ai-poc)
+<p>
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+</p>
 
 </div>
 
@@ -96,7 +91,7 @@ A practical Proof of Concept focused on applying **Security by Design best pract
 ☁️ AWS and Cloud Infrastructure  
 ⚙️ DevOps and CI/CD  
 🐧 Linux Administration  
-🐳 Docker and Kubernetes  
+🐳 Containers and Orchestration  
 🔐 Infrastructure Security and Secrets Management  
 🛡️ Security by Design and DevSecOps practices
 
@@ -130,11 +125,9 @@ A practical Proof of Concept focused on applying **Security by Design best pract
 <a href="mailto:yaraxavierdesousa@gmail.com">
   <img src="https://img.shields.io/badge/Email-yaraxavierdesousa%40gmail.com-ff99cc?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://wa.me/5561998749981" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Contact-ffb3d9?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://t.me/YaraXavier" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-%40YaraXavier-ffb3d9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-
-**CV:** coming soon.
 
 </div>
 
