@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Yara Xavier
 
@@ -9,19 +9,19 @@ Construindo infraestrutura segura, confiável e de fácil manutenção, com fort
 <br>
 
 <a href="mailto:yaraxavierdesousa@gmail.com" title="E-mail">
-  <img src="https://cdn.simpleicons.org/gmail/ff66b3" width="32" height="32" alt="E-mail"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="E-mail"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yaraxavier/" title="LinkedIn">
-  <img src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/assets/linkedin-icon.svg" width="32" height="32" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://t.me/YaraXavier" title="Telegram">
-  <img src="https://cdn.simpleicons.org/telegram/ff66b3" width="32" height="32" alt="Telegram"/>
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/VegasVvegas/VegasVvegas/blob/main/CV.md" title="Currículo">
-  <img src="https://cdn.simpleicons.org/googledocs/ff66b3" width="32" height="32" alt="Currículo"/>
+  <img src="https://cdn.simpleicons.org/googledocs/4285F4" width="32" height="32" alt="Currículo"/>
 </a>
 
 </div>
@@ -77,8 +77,6 @@ Tenho interesse especial em compreender como pequenas decisões de configuraçã
 - Segurança de infraestrutura e gestão de segredos
 - Security by Design e práticas de DevSecOps
 - Tecnologias open source
-
----
 
 ---
 
