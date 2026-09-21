@@ -77,20 +77,6 @@ Tenho interesse especial em compreender como pequenas decisões de configuraçã
 
 ---
 
-## Painel do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VegasVvegas&show_icons=true&hide_title=true&theme=transparent&text_color=c9d1d9&icon_color=ff66b3&border_color=30363d&include_all_commits=true"/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=VegasVvegas&theme=transparent&hide_border=false&border=30363d&ring=ff66b3&fire=ff66b3&currStreakLabel=ff66b3&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VegasVvegas&bg_color=0d1117&color=c9d1d9&line=ff66b3&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
 ---
 
 <div align="center">
