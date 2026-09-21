@@ -13,7 +13,7 @@ Construindo infraestrutura segura, confiável e de fácil manutenção, com fort
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yaraxavier/" title="LinkedIn">
-  <img src="https://cdn.simpleicons.org/linkedin/ff66b3" width="32" height="32" alt="LinkedIn"/>
+  <img src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/assets/linkedin-icon.svg" width="32" height="32" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://t.me/YaraXavier" title="Telegram">
