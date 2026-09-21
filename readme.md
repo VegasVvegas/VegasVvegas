@@ -2,28 +2,116 @@
 
 <div align="center">
 
-  <p style="font-size: 12px; letter-spacing: 4px; color: #ffb3d9; margin-top: 10px;">
-    SALVE DEUS
-  </p>
+# Yara Xavier
 
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=ff66b3&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Yara;Technology+Student;DevSecOps+Journey;Infrastructure+%7C+Security+%7C+Open+Source" />
-  </p>
+### Infrastructure • DevOps • Security • AWS • Open Source
 
-  <p>
-    <img src="https://img.shields.io/badge/Focus-DevSecOps-ff66b3?style=for-the-badge&labelColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/Area-Infrastructure-ff99cc?style=for-the-badge&labelColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/Interest-Security-ffb3d9?style=for-the-badge&labelColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/Open%20Source-Lover-ffd6eb?style=for-the-badge&labelColor=1a1a1a"/>
-  </p>
+**Building secure and reliable infrastructure with Security by Design practices.**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud-ff66b3?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/DevOps-Automation-ff99cc?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Security-Security%20by%20Design-ffb3d9?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-ffd6eb?style=for-the-badge&logo=opensourceinitiative&logoColor=black&labelColor=1a1a1a"/>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/yaraxavier/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yara%20Xavier-ff66b3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yaraxavierdesousa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-ff99cc?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5561998749981" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-ffb3d9?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img width="85%" src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/personagem-hacker-rosa.svg"/>
+  <img width="82%" src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/personagem-hacker-rosa.svg"/>
 </div>
+
+<br>
+
+<div align="center">
+
+## About Me
+
+I am a technology student building my career in **Infrastructure, DevOps, Cloud and Security**.
+
+My current focus is on **AWS, Linux, containers, Kubernetes, automation, secrets management and Security by Design practices**.
+
+I am especially interested in understanding the small configuration, access and infrastructure details that can silently increase an application's attack surface.
+
+I also value **open source technologies** for the transparency, learning opportunities and collaboration they bring to modern infrastructure and security.
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Tech Stack
+
+<p>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+</p>
+
+**Currently working with:** CI/CD • GitHub Actions • OpenBao • Secrets Management • Security by Design
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Featured Project
+
+### 🔐 Security by Design + AI POC
+
+A practical Proof of Concept focused on applying **Security by Design best practices to AI-assisted development**, with attention to small configuration, access, code and infrastructure details that may silently expand the attack surface.
+
+[View the project](https://github.com/VegasVvegas/security-by-design-ai-poc)
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Currently Learning
+
+☁️ AWS and Cloud Infrastructure  
+⚙️ DevOps and CI/CD  
+🐧 Linux Administration  
+🐳 Docker and Kubernetes  
+🔐 Infrastructure Security and Secrets Management  
+🛡️ Security by Design and DevSecOps practices
+
+</div>
+
+<br>
+
+<div align="center">
+
+## GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VegasVvegas&show_icons=true&theme=transparent&title_color=ff66b3&text_color=ffcce6&icon_color=ff99cc&border_color=ff99cc"/>
+
+</div>
+
 <br>
 
 <div align="center">
@@ -33,73 +121,21 @@
 <br>
 
 <div align="center">
-  <h2>💖 About me</h2>
 
-  <p>
-    Sou estudante de tecnologia, aventureira da lógica e apaixonada por matemática.
-    <br>
-    Construindo minha jornada em DevSecOps, explorando infraestrutura, segurança e sistemas.
-  </p>
+## Contact
 
-  <p>
-    Acredito no código aberto porque ele promove aprendizado real, colaboração
-    e construção de soluções mais seguras e acessíveis.
-  </p>
-</div>
+<a href="https://www.linkedin.com/in/yaraxavier/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Yara%20Xavier-ff66b3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:yaraxavierdesousa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-yaraxavierdesousa%40gmail.com-ff99cc?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://wa.me/5561998749981" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact-ffb3d9?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-<br>
+**CV:** coming soon.
 
-<div align="center">
-  <h2>🛠 Technologies</h2>
-
-  <p>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VegasVvegas&show_icons=true&theme=transparent&title_color=ff66b3&text_color=ffcce6&icon_color=ff99cc&border_color=ff99cc"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegasVvegas&layout=compact&theme=transparent&title_color=ff66b3&text_color=ffcce6&border_color=ff99cc"/>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>🌸 Currently</h2>
-
-  <p>
-    📚 Estudando infraestrutura, segurança e sistemas
-    <br>
-    🐧 Explorando Linux, Git, Docker e boas práticas de desenvolvimento
-    <br>
-    💻 Construindo minha base em DevSecOps
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>🌷 Connect with me</h2>
-
-  <p>
-    <a href="https://www.linkedin.com/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-ff66b3?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:seuemail@example.com">
-      <img src="https://img.shields.io/badge/Email-ff99cc?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
 </div>
 
 <br>
