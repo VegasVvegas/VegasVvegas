@@ -25,6 +25,9 @@
   <a href="https://t.me/YaraXavier" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%40YaraXavier-ffb3d9?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+  <a href="https://github.com/VegasVvegas/VegasVvegas/blob/main/CV.md" target="_blank">
+    <img src="https://img.shields.io/badge/CV-View%20Resume-ffd6eb?style=for-the-badge&logo=readthedocs&logoColor=black"/>
+  </a>
 </p>
 
 </div>
@@ -111,24 +114,6 @@ I value **open source** as an important part of learning, collaboration and the 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-</div>
-
-<br>
-
-<div align="center">
-
-## Contact
-
-<a href="https://www.linkedin.com/in/yaraxavier/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Yara%20Xavier-ff66b3?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:yaraxavierdesousa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-yaraxavierdesousa%40gmail.com-ff99cc?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://t.me/YaraXavier" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-%40YaraXavier-ffb3d9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
 </div>
 
 <br>
