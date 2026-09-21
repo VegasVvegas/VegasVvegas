@@ -2,50 +2,50 @@
 
 # Yara Xavier
 
-### Infrastructure & DevOps • AWS • Security • Open Source
+### Infraestrutura & DevOps • AWS • Segurança • Open Source
 
-Building secure, reliable and maintainable infrastructure with a strong focus on **Security by Design**.
+Construindo infraestrutura segura, confiável e de fácil manutenção, com forte foco em **Security by Design**.
 
 <br>
 
+<a href="mailto:yaraxavierdesousa@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-Contato-111111?style=for-the-badge&logo=gmail&logoColor=ff66b3"/>
+</a>
 <a href="https://www.linkedin.com/in/yaraxavier/">
   <img src="https://img.shields.io/badge/LinkedIn-Yara%20Xavier-111111?style=for-the-badge&logo=linkedin&logoColor=ff66b3"/>
-</a>
-<a href="mailto:yaraxavierdesousa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=ff66b3"/>
 </a>
 <a href="https://t.me/YaraXavier">
   <img src="https://img.shields.io/badge/Telegram-%40YaraXavier-111111?style=for-the-badge&logo=telegram&logoColor=ff66b3"/>
 </a>
 <a href="https://github.com/VegasVvegas/VegasVvegas/blob/main/CV.md">
-  <img src="https://img.shields.io/badge/CV-View%20Resume-111111?style=for-the-badge&logo=readthedocs&logoColor=ff66b3"/>
+  <img src="https://img.shields.io/badge/CV-Ver%20Curr%C3%ADculo-111111?style=for-the-badge&logo=readthedocs&logoColor=ff66b3"/>
 </a>
 
 </div>
 
 ---
 
-## Professional Summary
+## Resumo Profissional
 
-Technology student building a career in **Infrastructure, DevOps, Cloud and Security**.
+Sou estudante de tecnologia, construindo minha carreira em **Infraestrutura, DevOps, Cloud e Segurança**.
 
-My technical interests are centered on **AWS, Linux, automation, infrastructure security, open source technologies and Security by Design practices**.
+Meus principais interesses técnicos estão concentrados em **AWS, Linux, automação, segurança de infraestrutura, tecnologias open source e práticas de Security by Design**.
 
-I am particularly interested in the small configuration, access and infrastructure decisions that influence the **security, reliability and maintainability** of systems.
-
----
-
-## Core Areas
-
-- **Cloud & Infrastructure:** AWS, Linux and infrastructure fundamentals
-- **DevOps & Automation:** Git, GitHub, CI/CD concepts, Bash and automation workflows
-- **Security:** Security by Design, least privilege, infrastructure hardening and secrets management concepts
-- **Containers:** Docker and containerization fundamentals
-- **Open Source:** learning and building with transparent, collaborative technologies
+Tenho interesse especial em compreender como pequenas decisões de configuração, acesso e infraestrutura podem influenciar a **segurança, confiabilidade e facilidade de manutenção** dos sistemas.
 
 ---
 
-## Technologies & Tools
+## Áreas Principais
+
+- **Cloud & Infraestrutura:** AWS, Linux e fundamentos de infraestrutura
+- **DevOps & Automação:** Git, GitHub, conceitos de CI/CD, Bash e fluxos de automação
+- **Segurança:** Security by Design, menor privilégio, hardening de infraestrutura e conceitos de gestão de segredos
+- **Containers:** Docker e fundamentos de conteinerização
+- **Open Source:** aprendizado e construção com tecnologias transparentes e colaborativas
+
+---
+
+## Tecnologias & Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=ff66b3"/>
@@ -56,7 +56,7 @@ I am particularly interested in the small configuration, access and infrastructu
   <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=ff66b3"/>
 </p>
 
-### Programming Languages
+### Linguagens de Programação
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=ff66b3"/>
@@ -65,18 +65,19 @@ I am particularly interested in the small configuration, access and infrastructu
 
 ---
 
-## Current Focus
+## Áreas de Foco
 
-- AWS and cloud infrastructure
-- DevOps and CI/CD practices
-- Linux administration
-- Containers and orchestration fundamentals
-- Infrastructure security and secrets management
-- Security by Design and DevSecOps practices
+- AWS e infraestrutura em nuvem
+- DevOps e práticas de CI/CD
+- Administração Linux
+- Containers e fundamentos de orquestração
+- Segurança de infraestrutura e gestão de segredos
+- Security by Design e práticas de DevSecOps
+- Tecnologias open source
 
 ---
 
-## GitHub Dashboard
+## Painel do GitHub
 
 <div align="center">
 
@@ -94,6 +95,6 @@ I am particularly interested in the small configuration, access and infrastructu
 
 <div align="center">
 
-**AWS • DevOps • Security • Infrastructure • Open Source**
+**Infraestrutura • DevOps • AWS • Segurança • Open Source**
 
 </div>
