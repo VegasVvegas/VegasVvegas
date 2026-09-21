@@ -1,87 +1,65 @@
-<div align="left">
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-# Yara Xavier
+<h1>Olá, eu sou a Yara Xavier</h1>
 
-### Infraestrutura & DevOps • AWS • Segurança • Open Source
+<p>
+  <a href="mailto:yaraxavierdesousa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff66b3?style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yaraxavier/">
+    <img src="https://img.shields.io/badge/LinkedIn-ff66b3?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/YaraXavier">
+    <img src="https://img.shields.io/badge/Telegram-ff66b3?style=for-the-badge" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/VegasVvegas/VegasVvegas/blob/main/CV.md">
+    <img src="https://img.shields.io/badge/CV-ff66b3?style=for-the-badge" alt="Currículo"/>
+  </a>
+</p>
 
-Construindo infraestrutura segura, confiável e de fácil manutenção, com forte foco em **Security by Design**.
+<p><strong>Infraestrutura, cloud e automação com boas práticas de segurança.</strong></p>
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/Infraestrutura-ff66b3?style=flat-square" alt="Infraestrutura"/><br/>
+  <img src="https://img.shields.io/badge/DevOps-ff66b3?style=flat-square" alt="DevOps"/><br/>
+  <img src="https://img.shields.io/badge/AWS%20%26%20Cloud-ff66b3?style=flat-square" alt="AWS e Cloud"/><br/>
+  <img src="https://img.shields.io/badge/Linux-ff66b3?style=flat-square" alt="Linux"/><br/>
+  <img src="https://img.shields.io/badge/Seguran%C3%A7a-ff66b3?style=flat-square" alt="Segurança"/><br/>
+  <img src="https://img.shields.io/badge/Security%20by%20Design-ff66b3?style=flat-square" alt="Security by Design"/><br/>
+  <img src="https://img.shields.io/badge/Open%20Source-ff66b3?style=flat-square" alt="Open Source"/>
+</p>
 
-<a href="mailto:yaraxavierdesousa@gmail.com" title="E-mail">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="E-mail"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yaraxavier/" title="LinkedIn">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://t.me/YaraXavier" title="Telegram">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/VegasVvegas/VegasVvegas/blob/main/CV.md" title="Currículo">
-  <img src="https://cdn.simpleicons.org/googledocs/4285F4" width="32" height="32" alt="Currículo"/>
-</a>
-
-</div>
+    </td>
+    <td width="35%" valign="top" align="right">
+      <img src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/Yara_Xavier_avatar_animado.gif" width="280" alt="Avatar animado: Hello, Tudo bem?, Posso te ajudar?"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Resumo Profissional
 
-Minha trajetória profissional é direcionada a **Infraestrutura, DevOps, Cloud e Segurança**.
-
-Meus principais interesses técnicos estão concentrados em **AWS, Linux, automação, segurança de infraestrutura, tecnologias open source e práticas de Security by Design**.
-
-Tenho interesse especial em compreender como pequenas decisões de configuração, acesso e infraestrutura podem influenciar a **segurança, confiabilidade e facilidade de manutenção** dos sistemas.
-
----
-
-## Áreas Principais
-
-- **Cloud & Infraestrutura:** AWS, Linux e fundamentos de infraestrutura
-- **DevOps & Automação:** Git, GitHub, conceitos de CI/CD, Bash e fluxos de automação
-- **Segurança:** Security by Design, menor privilégio, hardening de infraestrutura e conceitos de gestão de segredos
-- **Containers:** Docker e fundamentos de conteinerização
-- **Open Source:** aprendizado e construção com tecnologias transparentes e colaborativas
+Atuação e interesses direcionados a **Infraestrutura, DevOps, AWS e Segurança**, com ênfase em Linux, automação, tecnologias open source e Security by Design. Valorizo boas práticas que tornam os sistemas mais seguros, confiáveis e fáceis de manter.
 
 ---
 
 ## Tecnologias & Ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=ff66b3"/>
-  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=ff66b3"/>
-  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=ff66b3"/>
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=ff66b3"/>
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=ff66b3"/>
-  <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=ff66b3"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=ff66b3" alt="Linux"/>
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=ff66b3" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=ff66b3" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=ff66b3" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=ff66b3" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=ff66b3" alt="Bash"/>
 </p>
 
 ### Linguagens de Programação
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=ff66b3"/>
-  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=ff66b3"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=ff66b3" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=ff66b3" alt="C"/>
 </p>
-
----
-
-## Áreas de Foco
-
-- AWS e infraestrutura em nuvem
-- DevOps e práticas de CI/CD
-- Administração Linux
-- Containers e fundamentos de orquestração
-- Segurança de infraestrutura e gestão de segredos
-- Security by Design e práticas de DevSecOps
-- Tecnologias open source
-
----
-
-<div align="center">
-
-**Infraestrutura • DevOps • AWS • Segurança • Open Source**
-
-</div>
