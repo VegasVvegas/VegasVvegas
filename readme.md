@@ -9,9 +9,9 @@
 <a href="https://github.com/VegasVvegas/VegasVvegas/blob/main/CV.md"><img src="https://img.shields.io/badge/CV-ff66b3?style=for-the-badge" alt="Currículo"/></a>
 </p>
 
-<p>Estou em <strong>formação prática em Infraestrutura e DevOps</strong>, aprofundando conhecimentos em AWS, Linux e automação por meio de estudos e projetos técnicos.</p>
+<p>Integro o time de <strong>Arquitetura e Infraestrutura do <a href="https://gov-hub.io/">Gov Hub</a></strong>, projeto de software livre do <a href="https://lablivre.unb.br/">Lab Livre da Universidade de Brasília (UnB)</a>. A plataforma integra e qualifica dados de sistemas governamentais para apoiar a gestão pública baseada em evidências e a transparência.</p>
 
-<p>Tenho interesse em construir e operar ambientes confiáveis, aplicando <strong>boas práticas de segurança</strong> desde as primeiras decisões de configuração. Valorizo tecnologias open source, documentação clara e melhoria contínua.</p>
+<p>Minha atuação é voltada a <strong>Infraestrutura e DevOps</strong>, com atenção à confiabilidade dos ambientes, automação, documentação e boas práticas de segurança. Também aprofundo meus conhecimentos em <strong>AWS, Linux e tecnologias open source</strong>, com interesse especial em <strong>Security by Design</strong>.</p>
 
 <br clear="all"/>
 
