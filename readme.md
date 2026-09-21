@@ -1,36 +1,21 @@
-<table>
-<tr>
-<td width="65%" valign="top">
-<h1>Olá, eu sou a Yara Xavier</h1>
+<img align="right" width="260" src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/Yara_Xavier_avatar_animado%281%29.gif" alt="Avatar animado da Yara: Hello, Tudo bem?, Posso te ajudar?"/>
+
+<h3>Olá, eu sou a Yara Xavier</h3>
+
 <p>
 <a href="mailto:yaraxavierdesousa@gmail.com"><img src="https://img.shields.io/badge/Email-ff66b3?style=for-the-badge" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/yaraxavier/"><img src="https://img.shields.io/badge/LinkedIn-ff66b3?style=for-the-badge" alt="LinkedIn"/></a>
 <a href="https://t.me/YaraXavier"><img src="https://img.shields.io/badge/Telegram-ff66b3?style=for-the-badge" alt="Telegram"/></a>
 <a href="https://github.com/VegasVvegas/VegasVvegas/blob/main/CV.md"><img src="https://img.shields.io/badge/CV-ff66b3?style=for-the-badge" alt="Currículo"/></a>
 </p>
-<p><strong>Infraestrutura, cloud e automação com boas práticas de segurança.</strong></p>
-<p>
-<img src="https://img.shields.io/badge/Infraestrutura-ff66b3?style=flat-square" alt="Infraestrutura"/><br/>
-<img src="https://img.shields.io/badge/DevOps-ff66b3?style=flat-square" alt="DevOps"/><br/>
-<img src="https://img.shields.io/badge/AWS%20%26%20Cloud-ff66b3?style=flat-square" alt="AWS e Cloud"/><br/>
-<img src="https://img.shields.io/badge/Linux-ff66b3?style=flat-square" alt="Linux"/><br/>
-<img src="https://img.shields.io/badge/Seguran%C3%A7a-ff66b3?style=flat-square" alt="Segurança"/><br/>
-<img src="https://img.shields.io/badge/Security%20by%20Design-ff66b3?style=flat-square" alt="Security by Design"/><br/>
-<img src="https://img.shields.io/badge/Open%20Source-ff66b3?style=flat-square" alt="Open Source"/>
-</p>
-</td>
-<td width="35%" valign="top" align="right"><img src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/Yara_Xavier_avatar_animado%281%29.gif" width="260" alt="Avatar animado da Yara"/></td>
-</tr>
-</table>
----
 
-## Resumo Profissional
+<p>Estou em <strong>formação prática em Infraestrutura e DevOps</strong>, aprofundando conhecimentos em AWS, Linux e automação por meio de estudos e projetos técnicos.</p>
 
-Atuação e interesses direcionados a **Infraestrutura, DevOps, AWS e Segurança**, com ênfase em Linux, automação, tecnologias open source e Security by Design. Valorizo boas práticas que tornam os sistemas mais seguros, confiáveis e fáceis de manter.
+<p>Tenho interesse em construir e operar ambientes confiáveis, aplicando <strong>boas práticas de segurança</strong> desde as primeiras decisões de configuração. Valorizo tecnologias open source, documentação clara e melhoria contínua.</p>
 
----
+<br clear="all"/>
 
-## Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=ff66b3" alt="Linux"/>
