@@ -8,17 +8,17 @@ Construindo infraestrutura segura, confiável e de fácil manutenção, com fort
 
 <br>
 
-<a href="mailto:yaraxavierdesousa@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-Contato-111111?style=for-the-badge&logo=gmail&logoColor=ff66b3"/>
+<a href="mailto:yaraxavierdesousa@gmail.com" title="E-mail">
+  <img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=gmail&logoColor=ff66b3" alt="E-mail"/>
 </a>
-<a href="https://www.linkedin.com/in/yaraxavier/">
-  <img src="https://img.shields.io/badge/LinkedIn-Yara%20Xavier-111111?style=for-the-badge&logo=linkedin&logoColor=ff66b3"/>
+<a href="https://www.linkedin.com/in/yaraxavier/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=linkedin&logoColor=ff66b3" alt="LinkedIn"/>
 </a>
-<a href="https://t.me/YaraXavier">
-  <img src="https://img.shields.io/badge/Telegram-%40YaraXavier-111111?style=for-the-badge&logo=telegram&logoColor=ff66b3"/>
+<a href="https://t.me/YaraXavier" title="Telegram">
+  <img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=telegram&logoColor=ff66b3" alt="Telegram"/>
 </a>
-<a href="https://github.com/VegasVvegas/VegasVvegas/blob/main/CV.md">
-  <img src="https://img.shields.io/badge/CV-Ver%20Curr%C3%ADculo-111111?style=for-the-badge&logo=readthedocs&logoColor=ff66b3"/>
+<a href="https://github.com/VegasVvegas/VegasVvegas/blob/main/CV.md" title="Currículo">
+  <img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=readthedocs&logoColor=ff66b3" alt="Currículo"/>
 </a>
 
 </div>
@@ -27,7 +27,7 @@ Construindo infraestrutura segura, confiável e de fácil manutenção, com fort
 
 ## Resumo Profissional
 
-Sou estudante de tecnologia, construindo minha carreira em **Infraestrutura, DevOps, Cloud e Segurança**.
+Minha trajetória profissional é direcionada a **Infraestrutura, DevOps, Cloud e Segurança**.
 
 Meus principais interesses técnicos estão concentrados em **AWS, Linux, automação, segurança de infraestrutura, tecnologias open source e práticas de Security by Design**.
 
