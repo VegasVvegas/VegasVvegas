@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Open%20Source-ff66b3?style=flat-square" alt="Open Source"/>
 </p>
 </td>
-<td width="35%" valign="top" align="right"><img src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/Yara_Xavier_avatar_animado.gif" width="260" alt="Avatar animado da Yara"/></td>
+<td width="35%" valign="top" align="right"><img src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/Yara_Xavier_avatar_animado%281%29.gif" width="260" alt="Avatar animado da Yara"/></td>
 </tr>
 </table>
 ---
