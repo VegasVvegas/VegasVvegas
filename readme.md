@@ -1,121 +1,93 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff66b3"/>
-
 <div align="center">
 
 # Yara Xavier
 
-### AWS • DevOps • Security • Infrastructure • Open Source
+### Infrastructure & DevOps • AWS • Security • Open Source
 
-**Building secure, reliable and scalable infrastructure with Security by Design practices.**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud-ff66b3?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/DevOps-Automation-ff99cc?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Security-Security%20by%20Design-ffb3d9?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-ffd6eb?style=for-the-badge&logo=opensourceinitiative&logoColor=black&labelColor=1a1a1a"/>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/yaraxavier/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Yara%20Xavier-ff66b3?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yaraxavierdesousa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-ff99cc?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/YaraXavier" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%40YaraXavier-ffb3d9?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/VegasVvegas/VegasVvegas/blob/main/CV.md" target="_blank">
-    <img src="https://img.shields.io/badge/CV-View%20Resume-ffd6eb?style=for-the-badge&logo=readthedocs&logoColor=black"/>
-  </a>
-</p>
-
-</div>
+Building secure, reliable and maintainable infrastructure with a strong focus on **Security by Design**.
 
 <br>
 
-<div align="center">
-  <img width="82%" src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/main/personagem-hacker-rosa.svg"/>
-</div>
-
-<br>
-
-<div align="center">
-
-## About Me
-
-I am a technology student building my career in **Infrastructure, DevOps, Cloud and Security**.
-
-My main interests are **AWS, Linux, automation, infrastructure security, open source technologies and Security by Design practices**.
-
-I am especially interested in understanding how small configuration, access and infrastructure decisions can affect the security, reliability and maintainability of systems.
-
-I value **open source** as an important part of learning, collaboration and the development of transparent and accessible technology.
+<a href="https://www.linkedin.com/in/yaraxavier/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yara%20Xavier-111111?style=for-the-badge&logo=linkedin&logoColor=ff66b3"/>
+</a>
+<a href="mailto:yaraxavierdesousa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=ff66b3"/>
+</a>
+<a href="https://t.me/YaraXavier">
+  <img src="https://img.shields.io/badge/Telegram-%40YaraXavier-111111?style=for-the-badge&logo=telegram&logoColor=ff66b3"/>
+</a>
+<a href="https://github.com/VegasVvegas/VegasVvegas/blob/main/CV.md">
+  <img src="https://img.shields.io/badge/CV-View%20Resume-111111?style=for-the-badge&logo=readthedocs&logoColor=ff66b3"/>
+</a>
 
 </div>
 
-<br>
+---
 
-<div align="center">
+## Professional Summary
+
+Technology student building a career in **Infrastructure, DevOps, Cloud and Security**.
+
+My technical interests are centered on **AWS, Linux, automation, infrastructure security, open source technologies and Security by Design practices**.
+
+I am particularly interested in the small configuration, access and infrastructure decisions that influence the **security, reliability and maintainability** of systems.
+
+---
+
+## Core Areas
+
+- **Cloud & Infrastructure:** AWS, Linux and infrastructure fundamentals
+- **DevOps & Automation:** Git, GitHub, CI/CD concepts, Bash and automation workflows
+- **Security:** Security by Design, least privilege, infrastructure hardening and secrets management concepts
+- **Containers:** Docker and containerization fundamentals
+- **Open Source:** learning and building with transparent, collaborative technologies
+
+---
 
 ## Technologies & Tools
 
 <p>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash"/>
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=ff66b3"/>
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=ff66b3"/>
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=ff66b3"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=ff66b3"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=ff66b3"/>
+  <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=ff66b3"/>
 </p>
 
-</div>
-
-<br>
-
-<div align="center">
-
-## Programming Languages
+### Programming Languages
 
 <p>
-  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
-  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=ff66b3"/>
+  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=ff66b3"/>
 </p>
 
-</div>
+---
 
-<br>
+## Current Focus
 
-<div align="center">
+- AWS and cloud infrastructure
+- DevOps and CI/CD practices
+- Linux administration
+- Containers and orchestration fundamentals
+- Infrastructure security and secrets management
+- Security by Design and DevSecOps practices
 
-## Currently Learning
+---
 
-☁️ AWS and Cloud Infrastructure  
-⚙️ DevOps and CI/CD  
-🐧 Linux Administration  
-🐳 Containers and Orchestration  
-🔐 Infrastructure Security and Secrets Management  
-🛡️ Security by Design and DevSecOps practices
-
-</div>
-
-<br>
+## GitHub Activity
 
 <div align="center">
 
-## GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VegasVvegas&show_icons=true&theme=transparent&title_color=ff66b3&text_color=ffcce6&icon_color=ff99cc&border_color=ff99cc"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VegasVvegas&show_icons=true&hide_title=true&theme=transparent&text_color=c9d1d9&icon_color=ff66b3&border_color=30363d"/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VegasVvegas/VegasVvegas/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+**AWS • DevOps • Security • Infrastructure • Open Source**
+
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff66b3&height=110&section=footer"/>
