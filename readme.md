@@ -9,16 +9,19 @@ Construindo infraestrutura segura, confiável e de fácil manutenção, com fort
 <br>
 
 <a href="mailto:yaraxavierdesousa@gmail.com" title="E-mail">
-  <img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=gmail&logoColor=ff66b3" alt="E-mail"/>
+  <img src="https://cdn.simpleicons.org/gmail/ff66b3" width="32" height="32" alt="E-mail"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yaraxavier/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=linkedin&logoColor=ff66b3" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/ff66b3" width="32" height="32" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/YaraXavier" title="Telegram">
-  <img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=telegram&logoColor=ff66b3" alt="Telegram"/>
+  <img src="https://cdn.simpleicons.org/telegram/ff66b3" width="32" height="32" alt="Telegram"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/VegasVvegas/VegasVvegas/blob/main/CV.md" title="Currículo">
-  <img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=readthedocs&logoColor=ff66b3" alt="Currículo"/>
+  <img src="https://cdn.simpleicons.org/googledocs/ff66b3" width="32" height="32" alt="Currículo"/>
 </a>
 
 </div>
